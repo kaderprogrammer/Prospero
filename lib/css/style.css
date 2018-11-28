@@ -27,6 +27,7 @@
 
     ul {
     	list-style-type: none !important;
+    	margin-bottom: 0;
     }
     a{
     	text-decoration: none !important;
@@ -36,6 +37,24 @@
     	-moz-transition: .5s;
     	transition: .5s;
     }
-
+	.col-lg-12{
+		padding-left: 0;
+		padding-right: 0;
+	}
     /*---------- end !important ---------*/
     /*--------- header ---------*/
+	#header{
+		/*background-color: #333;*/
+		padding: 7px;
+	}
+	.left__content{
+		float: left;
+	}
+	.right__content{
+		float: right;
+		justify-content: center;
+	}
+	.right__content ul li{
+		display: inline;
+	}
+	/*---------- End Header ---------*/
