@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="40px" height="44px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 6.87 7.57"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#727376;stroke-width:0.34;stroke-miterlimit:22.9256}
+    .str0 {stroke:#E71615;stroke-width:0.34;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="е_x203a_ѕе_x00b1__x201a__x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2438922031056">
+   <g>
+    <path class="fil0 str0" d="M2.39 3.78l0 -1.39c0,-0.2 0.15,-0.35 0.34,-0.35l0.12 0c0.19,0 0.35,0.15 0.35,0.35l0 1.39"/>
+    <line class="fil0 str0" x1="2.39" y1="3.08" x2="3.2" y2= "3.08" />
+    <path class="fil0 str0" d="M3.67 3.67l0.46 0c0.2,0 0.35,-0.16 0.35,-0.35l0 -0.93c0,-0.2 -0.15,-0.35 -0.35,-0.35l-0.46 0 0 1.63 0 0z"/>
+   </g>
+   <rect class="fil0 str1" x="0.17" y="0.17" width="6.52" height="7.22"/>
+   <line class="fil0 str1" x1="0.17" y1="1.1" x2="6.7" y2= "1.1" />
+   <line class="fil0 str1" x1="0.52" y1="0.64" x2="0.75" y2= "0.64" />
+   <line class="fil0 str1" x1="0.99" y1="0.64" x2="1.22" y2= "0.64" />
+   <line class="fil0 str1" x1="1.45" y1="0.64" x2="1.69" y2= "0.64" />
+   <line class="fil0 str1" x1="2.04" y1="0.17" x2="2.04" y2= "1.1" />
+   <line class="fil0 str1" x1="2.39" y1="0.64" x2="6.35" y2= "0.64" />
+   <rect class="fil0 str0" x="0.64" y="1.57" width="5.59" height="2.56"/>
+   <rect class="fil0 str1" x="4.6" y="4.6" width="1.63" height="0.93"/>
+   <rect class="fil0 str1" x="4.6" y="6" width="1.63" height="0.93"/>
+   <line class="fil0 str1" x1="0.52" y1="6" x2="4.25" y2= "6" />
+   <line class="fil0 str1" x1="0.52" y1="6.46" x2="1.92" y2= "6.46" />
+   <line class="fil0 str1" x1="2.15" y1="6.46" x2="4.25" y2= "6.46" />
+   <line class="fil0 str1" x1="0.52" y1="5.53" x2="2.62" y2= "5.53" />
+   <line class="fil0 str1" x1="2.85" y1="5.53" x2="4.25" y2= "5.53" />
+   <line class="fil0 str1" x1="0.52" y1="6.93" x2="4.25" y2= "6.93" />
+   <rect class="fil0 str1" x="0.64" y="4.6" width="3.49" height="0.47"/>
+  </g>
+ </g>
+</svg>

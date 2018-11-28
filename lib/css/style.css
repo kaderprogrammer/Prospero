@@ -1,0 +1,41 @@
+/*	**********************************************
+
+
+    Template Author : Abduqodir Khojiyev
+    Author Email    : abduqodirxojiyev@gmail.com
+    Template Name   : Prospero
+	 ____                                     
+	|  _ \ _ __ ___  ___ _ __   ___ _ __ ___  
+	| |_) | '__/ _ \/ __| '_ \ / _ \ '__/ _ \ 
+	|  __/| | | (_) \__ \ |_) |  __/ | | (_) |
+	|_|   |_|  \___/|___/ .__/ \___|_|  \___/ 
+	                    |_|
+    
+    **********************************************
+    */
+
+    /*---------- !important ---------*/
+
+    *{
+    	box-sizing: border-box;
+    	margin: 0;
+    	padding: 0;
+    }
+    body{
+    	font-family: 'Comfortaa', cursive;
+    }
+
+    ul {
+    	list-style-type: none !important;
+    }
+    a{
+    	text-decoration: none !important;
+    	color: #fff;
+    	-webkit-transition:.5s;
+    	-o-transition:.5s;
+    	-moz-transition: .5s;
+    	transition: .5s;
+    }
+
+    /*---------- end !important ---------*/
+    /*--------- header ---------*/

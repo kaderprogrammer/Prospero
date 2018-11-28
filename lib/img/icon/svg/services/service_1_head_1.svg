@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2017 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="39px" height="44px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2.42 2.77"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#727376;stroke-width:0.13;stroke-miterlimit:22.9256}
+    .str2 {stroke:#E71615;stroke-width:0.13;stroke-miterlimit:22.9256}
+    .str1 {stroke:#727376;stroke-width:0.13;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="е_x203a_ѕе_x00b1__x201a__x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2438926218192">
+   <line class="fil0 str0" x1="0.36" y1="2.02" x2="1.38" y2= "2.02" />
+   <line class="fil0 str0" x1="0.36" y1="2.19" x2="1.38" y2= "2.19" />
+   <line class="fil0 str0" x1="0.36" y1="2.36" x2="1.38" y2= "2.36" />
+   <line class="fil0 str0" x1="0.36" y1="2.53" x2="1.38" y2= "2.53" />
+   <polyline class="fil0 str0" points="1,2.53 1,2.7 0.74,2.7 0.74,2.53 "/>
+   <path class="fil0 str0" d="M1.25 2.53l0 -0.93c0.26,-0.14 0.43,-0.42 0.43,-0.73 0,-0.45 -0.36,-0.81 -0.81,-0.81 -0.44,0 -0.81,0.36 -0.81,0.81 0,0.31 0.17,0.59 0.43,0.73l0 0.93"/>
+   <line class="fil0 str0" x1="0.74" y1="2.02" x2="0.74" y2= "1.6" />
+   <line class="fil0 str0" x1="1" y1="2.02" x2="1" y2= "1.6" />
+   <line class="fil0 str0" x1="0.87" y1="0.87" x2="2.19" y2= "0.87" />
+   <polygon class="fil0 str1" points="1.81,0.87 1.98,0.7 2.36,0.7 2.19,0.87 2.36,1.04 1.98,1.04 "/>
+   <circle class="fil0 str2" cx="0.87" cy="0.87" r="0.55"/>
+   <circle class="fil0 str0" cx="0.87" cy="0.87" r="0.3"/>
+   <circle class="fil0 str2" cx="0.87" cy="0.87" r="0.04"/>
+  </g>
+ </g>
+</svg>
