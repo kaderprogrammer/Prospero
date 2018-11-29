@@ -23,6 +23,12 @@
 	.align-text-top {
 		vertical-align: middle !important;
 	}
+	.col-lg-2 img{
+		width: 150px;
+	}
+	.col-lg-2 h4{
+		margin-bottom: 30px;
+	}
 }
 
 
@@ -40,6 +46,12 @@
 	}
 	.align-text-top {
 		vertical-align: middle !important;
+	}
+	.col-lg-2 img{
+		width: 150px;
+	}
+	.col-lg-2 h4{
+		margin-bottom: 30px;
 	}
 }
 
@@ -59,6 +71,12 @@
 	.align-text-top {
 		vertical-align: middle !important;
 	}
+	.col-lg-2 img{
+		width: 150px;
+	}
+	.col-lg-2 h4{
+		margin-bottom: 30px;
+	}
 }
 
 
@@ -76,6 +94,15 @@
 	}
 	.align-text-top {
 		vertical-align: middle !important;
+	}
+	.about__us p{
+		padding: 0 15px 0 !important;
+	}
+	.col-lg-2 h4{
+		margin-bottom: 30px;
+	}
+	.col-lg-2 img{
+		width: 150px;
 	}
 	
 }
