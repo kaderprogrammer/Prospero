@@ -23,6 +23,7 @@
     }
     body{
     	font-family: 'Comfortaa', cursive;
+    	text-shadow: 1px 1px 2px rgba(0,0,0,0.50);
     }
 
     ul {
@@ -37,7 +38,7 @@
     	-moz-transition: .5s;
     	transition: .5s;
     }
-    .col-lg-12, .col-lg-2, .col-lg-4{
+    .col-lg-12, .col-lg-2, .col-lg-4, .col-lg-6, .row, .container-fluid, .col-lg-3{
     	padding-left: 0;
     	padding-right: 0;
     }
@@ -194,12 +195,27 @@
     #section__3{
     	text-align: center;
     	padding-top: 35px;
+    	text-shadow: 1px 1px 2px rgba(0,0,0,0.50);
     }
     .bg__left{
-	background-image: url(../../lib/img/ourwork_full.jpg);
+	background-image: url(../../lib/img/business-business-people-calendar-1187439.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
+}
+.bg__right{
+	background-image: url(../../lib/img/ourwork_full_1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: left;
+	
+}
+.bg__right img{
+
+}
+.bg__left img{
+	bottom: 0;
+	left: 0;
 }
 .right__text h1{
 	font-size: 20px;
@@ -211,13 +227,55 @@
 .col-lg-1 ul li{
 	font-size: 12px;
 }
+.h_5 h5{
+	font-size: 12px;
+	padding-left: 5px;
+}
+.h_5 span, .h_5 h5 span{
+	color: #ff0000;
+}
+.btn span{
+
+	cursor: pointer;
+	display: inline-block;
+	position: relative;
+	transition: 0.5s;
+}
+.btn span:after{
+	content: ":)";
+	position: absolute;
+	opacity: 0;
+	top: 0;
+	right: -20px;
+	transition: 0.5s;
+}
+.btn:hover span:after {
+	opacity: 1;
+	right: 0;
+}
+.btn:hover span{
+	padding-right: 25px;
+}
     /*--------- End Section__3---------*/
 
 
-
-
-
-
-
-    /*---------  Section__4 ---------*/
-                    /*--------- End Section__4 ---------*/
+/*---------- Footer ---------*/
+#footer{
+	padding: 15px;
+}
+.footer__logo p{
+	color: #fff;
+}
+.footer__menu_navigation, .footer__menu_service, .footer__menu_contact, .footer__logo img {
+	margin-top: 85px;
+	color: #fff;
+}
+.footer__menu_navigation ul li, .footer__menu_service ul li, .footer__menu_contact ul li{
+	border-bottom: 1px solid #fff;
+	padding: 5px;
+	margin: 5px;
+}
+.footer__menu_navigation ul li a:hover, .footer__menu_service ul li a:hover, .footer__menu_contact ul li a:hover{
+	padding-left: 10px;
+	color: #ddd;
+}

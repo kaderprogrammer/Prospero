@@ -37,6 +37,10 @@
 	.col-lg-2 h4{
 		margin-bottom: 30px;
 	}
+	.d-flex{
+		display: -ms-flexbox !important;
+		display: block !important;
+	}
 }
 
 
@@ -61,6 +65,10 @@
 	.col-lg-2 h4{
 		margin-bottom: 30px;
 	}
+	.d-flex{
+		display: -ms-flexbox !important;
+		display: block !important;
+	}
 }
 
 
@@ -84,6 +92,10 @@
 	}
 	.col-lg-2 h4{
 		margin-bottom: 30px;
+	}
+	.d-flex{
+		display: -ms-flexbox !important;
+		display: block !important;
 	}
 }
 
@@ -111,6 +123,10 @@
 	}
 	.col-lg-2 img{
 		width: 150px;
+	}
+	.d-flex{
+		display: -ms-flexbox !important;
+		display: block !important;
 	}
 	
 }
