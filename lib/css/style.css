@@ -43,12 +43,17 @@
     }
     .h1 h1{
     	font-size: 36px;
+    	text-transform: uppercase;
     }
     .stuck nav{
     	position: fixed;
     	top: 0;
     	left: 0;
     	right: 0;
+    }
+    .row{
+    	margin-left: 0;
+    	margin-right: 0;
     }
     /*---------- end !important ---------*/
     /*--------- header ---------*/
@@ -148,9 +153,71 @@
     /*--------- End Image Container ---------*/
 
     /*---------  Section__2 ---------*/
-	
-	#section__2{
-		text-align: center;
-		padding-top: 20px;
-	}
+
+    #section__2{
+    	text-align: center;
+    	padding-top: 40px;
+    }
+
+    .howtomake {
+    	display: table;
+    	background-position: top center;
+    }
+    .howtomake .item {padding:0}
+
+    .howtomake .item.consulting {background:url('../img/icon/point-1.png') no-repeat;background-position: center center;background-size: contain;}
+    .howtomake .item.production {background:url('../img/icon/point-2.png') no-repeat;background-position: center center;background-size: contain;}
+    .howtomake .item.promotion {background:url('../img/icon/point-3.png') no-repeat;background-position: center center;background-size: contain;}
+    .howtomake .item h3 {color:#4B4B4D;font-size:27px; margin-top: 0; text-align: center;}
+    .howtomake .item h3 > span {color:#C83538;font-size:70px;padding-right: 5px;}
+
+    .howtomake .item a {display:block;color:#272727;font-size: 19px; font-family: 'Comfortaa', cursive;}
+    .howtomake .item a p{font-size: 18.8px !important; transition: .5s;}
+    .howtomake .item a:hover p{color: red;}
+    .howtomake .item a > p {
+    	position:relative;
+    	padding: 8px 0 8px 50px;
+    	margin-bottom: 15px;
+    	text-transform:uppercase;
+    	font-size:18px;
+    	color: #4e5052;
+    }
+    .howtomake .item img.icon {position:absolute;height:38px;top:calc(50% - 19px);left:0;}
+    .htm__padding{
+    	background: url('../img/icon/howtoliner.svg') no-repeat;
+    	background-position: top;
+    	padding-top: 80px;
+    }
     /*--------- End Section__2 ---------*/
+
+    /*--------- Section__3 ---------*/
+    #section__3{
+    	text-align: center;
+    	padding-top: 35px;
+    }
+    .bg__left{
+	background-image: url(../../lib/img/ourwork_full.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.right__text h1{
+	font-size: 20px;
+}
+.right__text p{
+	font-size: 13px;
+	text-align: justify;
+}
+.col-lg-1 ul li{
+	font-size: 12px;
+}
+    /*--------- End Section__3---------*/
+
+
+
+
+
+
+
+    /*---------  Section__4 ---------*/
+                    /*--------- End Section__4 ---------*/

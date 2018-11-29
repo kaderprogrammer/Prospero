@@ -6,6 +6,14 @@
 		width: 500px;
 		vertical-align: middle;
 	}
+	.overlay{
+		font-size: 14px;
+		font-weight: 500;
+		padding: 0 15px;
+	}
+	.container__image:hover .overlay{
+		padding: 30px 20px;
+	}
 }
 
 
